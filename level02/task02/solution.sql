@@ -1,0 +1,2 @@
+-- Пример SQL-запроса, готового к выполнению
+-- SELECT name, salary FROM employees WHERE salary > 50000 ORDER BY salary DESC;
