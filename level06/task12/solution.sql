@@ -1,0 +1,3 @@
+-- Используем LEFT JOIN для объединения таблиц students и enrollments
+-- Проверяем, где course_name из таблицы enrollments равен NULL
+-- Подсчитываем количество таких студентов с помощью COUNT
