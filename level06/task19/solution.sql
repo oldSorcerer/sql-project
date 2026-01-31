@@ -1,0 +1,3 @@
+-- Соединение таблиц students, courses и enrollments с использованием INNER JOIN
+-- Условие соединения: соответствие student_id и course_id в таблице enrollments
+-- Выборка только имени студента (name) и названия курса (course_name)
