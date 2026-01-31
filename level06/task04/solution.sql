@@ -1,0 +1,1 @@
+-- Используем INNER JOIN для объединения таблиц customers и orders по customer_id
